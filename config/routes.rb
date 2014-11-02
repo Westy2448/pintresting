@@ -2,7 +2,6 @@ Rails.application.routes.draw do
   root "pages#home"
   get "about" => "pages#about" # creates about_path
 
-  get "profile" => "pages#profile"
 
   
   # The priority is based upon order of creation: first created -> highest priority.
