@@ -17,7 +17,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 
 gem 'jbuilder', '~> 2.0'
-gem 'bootstrap-sass',
+gem 'bootstrap-sass'
 
 group :development, :test do
 	gem 'sqlite3'
